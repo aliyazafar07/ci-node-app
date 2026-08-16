@@ -1,0 +1,12 @@
+{
+  "name": "ci-node-frontend",
+  "version": "1.0.0",
+  "description": "CI frontend",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
